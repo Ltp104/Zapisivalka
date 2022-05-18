@@ -1,0 +1,10 @@
+C:\Users\Студент\source\repos\Oboba327\bin\Debug\Oboba327.exe.config
+C:\Users\Студент\source\repos\Oboba327\bin\Debug\Oboba327.exe
+C:\Users\Студент\source\repos\Oboba327\bin\Debug\Oboba327.pdb
+C:\Users\Студент\source\repos\Oboba327\obj\Debug\Oboba327.csprojAssemblyReference.cache
+C:\Users\Студент\source\repos\Oboba327\obj\Debug\Oboba327.Form1.resources
+C:\Users\Студент\source\repos\Oboba327\obj\Debug\Oboba327.Properties.Resources.resources
+C:\Users\Студент\source\repos\Oboba327\obj\Debug\Oboba327.csproj.GenerateResource.cache
+C:\Users\Студент\source\repos\Oboba327\obj\Debug\Oboba327.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\Oboba327\obj\Debug\Oboba327.exe
+C:\Users\Студент\source\repos\Oboba327\obj\Debug\Oboba327.pdb
